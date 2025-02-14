@@ -1,6 +1,6 @@
 package application;
 
-public class Comparaison {
+public class _04_Comparaison {
 	
 	public static void main(String[] args) {
 		String personnage1 = "Patrick L'etoile";

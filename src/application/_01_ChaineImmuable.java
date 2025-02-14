@@ -1,6 +1,6 @@
 package application;
 
-public class ChaineImmuable {
+public class _01_ChaineImmuable {
 	
     public static void main(String[] args) {
         // Création d'une chaîne de caractères

@@ -1,6 +1,6 @@
 package application;
 
-public class StrBuilder {
+public class _07_StrBuilder {
 
 	public static void main(String[] args) {
 		// Création du texte déroulant avec StringBuilder

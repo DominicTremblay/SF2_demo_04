@@ -1,6 +1,6 @@
 package application;
 
-public class AffichageChaines {
+public class _06_AffichageChaines {
 
 	public static void main(String[] args) {
 

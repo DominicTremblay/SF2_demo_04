@@ -1,6 +1,6 @@
 package application;
 
-public class InitialiserChaines {
+public class _02_InitialiserChaines {
 	
 	public static void main(String[] args) {
 		

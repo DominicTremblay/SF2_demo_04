@@ -2,7 +2,7 @@ package application;
 
 import java.util.Arrays;
 
-public class ManipulationChaines {
+public class _05_ManipulationChaines {
 	
 	public static void main(String[] args) {
 //		charAt(int index)
